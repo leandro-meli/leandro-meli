@@ -4,11 +4,11 @@ Take a look around and I hope that you find what you seek 🧐
 
 <div>
   
-[![Leandro-Hespanhols GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Hespanhol&show_icons=true&theme=merko)](https://github.com/Leandro-Hespanhol/github-readme-stats)
+[![Leandro-Melis GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Meli&show_icons=true&theme=merko)](https://github.com/Leandro-Meli/github-readme-stats)
   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Hespanhol&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Meli&layout=compact&theme=merko)
 
 <div style="display: inline-block">Ready to work with:<br><br>
 <img align="center" alt="LeoH-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
