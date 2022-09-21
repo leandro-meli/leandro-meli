@@ -33,15 +33,3 @@ Take a look around and I hope that you find what you seek 🧐
   </div>
 
 ##
-
-
-You can contact me on:
-<div>
-  <a href="https://www.linkedin.com/in/leandro-hespanhol/" target="_blank">
-    <img alt="LeoH-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" /> 
-  </a>
-<br>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  leandrohespanhol@gmail.com
- 
-</div>
